@@ -1,2 +1,2 @@
 # Bank_Details Using MSSQL
-This is Bank Details Project created in MSSQL Server 
+Project created in MSSQL Server 
